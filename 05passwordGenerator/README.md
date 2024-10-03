@@ -1,8 +1,3 @@
-# React + Vite
+for concept/doubt regarding useCallback, useEffect, and whether to use setPassword as dependency in useCallback refer to this.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://chatgpt.com/share/66fef74f-2f0c-8005-a9b7-e0fc834bd280
